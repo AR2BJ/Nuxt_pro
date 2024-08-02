@@ -9,8 +9,4 @@ export default defineNuxtConfig({
     },
   },
   compatibilityDate: "2024-08-02",
-  app: {
-    baseURL: "/nuxt-github-pages/", // baseURL: '/<repository>/'
-    buildAssetsDir: "assets"
-  },
 });
